@@ -1,1 +1,1 @@
-Esta es el archivo txt de la rama principal master.
+Hola, esta es una prueba de la simulación de conflictos usando git.Esta es el archivo txt de la rama principal master.
